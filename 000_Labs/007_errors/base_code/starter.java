@@ -1,13 +1,13 @@
 /*
- *	Author:  
- *  Date: 
+ *	Author:  Justin Pyo
+ *  Date: 9/3/26
 */
 
 class starter {
 	public static void main(String args[]) {
 
 		string food = new string ("burritos");
-		string drink = new string ("soda")
+		string drink = new string ("soda");
 		System.out.println("I love " + food + " and " + drink + "!");
 
 		int count;
@@ -22,5 +22,5 @@ class starter {
 		System.out.println(sum);
 
 	}
-		System.out.println("I now have 0 errors!!!");		
+		System.out.println("I love " + food + d + drink + "!");		
 }

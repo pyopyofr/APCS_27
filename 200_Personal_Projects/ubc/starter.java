@@ -13,7 +13,6 @@ class starter {
 		// Your code goes below here
 		BaseClass test = new BaseClass();
 
-
 		
 	}
 }
