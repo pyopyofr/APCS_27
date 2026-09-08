@@ -12,6 +12,6 @@ class starter {
 		System.out.println("Happy Birthday, to you.");
 		System.out.println("Happy Birthday, to you.");
 		System.out.println("Happy Birthday, dear Justin.");
-		System.out.print("Happy Birthday, to you.");
+		System.out.println("Happy Birthday, to you.");
 	}
 }
