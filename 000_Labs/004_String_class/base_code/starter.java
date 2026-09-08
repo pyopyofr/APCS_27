@@ -15,6 +15,6 @@ class starter {
 		System.out.println(Secondname);
 		System.out.println(Secondname);
 		System.out.println(Firstname+Thirdname+".");
-		System.out.print(Secondname);
+		System.out.println(Secondname);
 	}
 }
