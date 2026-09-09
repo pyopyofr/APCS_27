@@ -20,7 +20,7 @@ class starter {
 		sum = num1 + num2;
 		
 		System.out.println(sum);
+		System.out.println("I love " + food + d + drink + "!");
 
 	}
-		System.out.println("I love " + food + d + drink + "!");		
 }
